@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Akash S Devadiga Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Akash S Devadiga</h1>
 
 <h3 align="center">
