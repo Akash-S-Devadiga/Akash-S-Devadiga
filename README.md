@@ -1,131 +1,108 @@
 <h1 align="center">Hi 👋, I'm Akash S Devadiga</h1>
 
 <h3 align="center">
-Information Science & Engineering Student | Full Stack Web Developer
+💻 Information Science & Engineering Student | Full Stack Web Developer
 </h3>
 
 <p align="center">
-Passionate about building modern web applications and continuously improving my programming skills.
+Passionate about building modern web applications, solving problems, and continuously learning new technologies.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 - 🎓 Information Science & Engineering Student
-- 💻 Learning Full Stack Web Development (MERN)
+- 🌱 Currently learning **MERN Stack Development**
 - ☕ Java Programmer
+- 🐍 Python Programmer
 - ⚙️ C++ Programmer
-- 🚀 Interested in Backend Development
-- 📚 Currently improving Data Structures & Algorithms
-- 🎯 Goal: Become a Software Engineer
+- 📚 Improving Data Structures & Algorithms
+- 🎯 Aspiring Software Engineer
 
 ---
 
-## 🚀 Current Learning
-
-- 🌐 MERN Stack Development
-- ⚡ Modern JavaScript (ES2025)
-- 🛠 Backend Development
-- 📦 REST APIs
-- 🔐 Authentication
-- 📈 Data Structures & Algorithms
-
----
-
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
 </p>
 
 ### Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-🔹 Employee Management System
-
-🔹 Doctor Appointment System
-
-🔹 Expense Tracker
-
-🔹 Recipe Finder
-
-🔹 Weather App
-
----
-
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash-S-Devadiga&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-Devadiga&layout=compact&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📖 Currently Learning
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akash-S-Devadiga&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-S-Devadiga&theme=tokyo-night"/>
-
-</p>
+- 🌐 Full Stack Web Development
+- ⚡ Modern JavaScript (ES2025)
+- 🛠 Backend Development
+- 🔐 Authentication & JWT
+- 📦 REST APIs
+- 🗄 MongoDB
+- 📈 Data Structures & Algorithms
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌟 Featured Projects
 
-<p align="center">
+| Project | Description |
+|---------|-------------|
+| 👨‍⚕️ Doctor Appointment System | Appointment booking and management |
+| 👨‍💼 Employee Management System | CRUD application with authentication |
+| 💰 Expense Tracker | Track income and expenses |
+| 🍔 Recipe Finder | MealDB API-based React app |
+| ✅ Todo Application | Local Storage based task manager |
+| 🌦 Weather App | Weather API integration |
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akash-S-Devadiga&theme=tokyonight&margin-w=15&margin-h=15"/>
+---
 
-</p>
+## 🎯 2026 Goals
+
+- ✅ Master MERN Stack
+- ✅ Build 10+ Full Stack Projects
+- ✅ Learn System Design Fundamentals
+- ✅ Strengthen DSA
+- ✅ Contribute to Open Source
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: akashdevadiga33@gmail.com
+📧 **Email:** akashdevadiga33@gmail.com
 
-💼 LinkedIn:(https://www.linkedin.com/in/akash-s-devadiga-8b6114372/)
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/akash-s-devadiga-8b6114372/
 
-🐙 GitHub: https://github.com/Akash-S-Devadiga
-
----
-
-## 💡 Motto
-
-> **"Consistency beats talent. Build. Learn. Improve. Repeat."**
+🐙 **GitHub:**  
+https://github.com/Akash-S-Devadiga
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 💭 Quote
+
+> **"Consistency beats talent when talent isn't consistent."**
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Happy Coding 🚀
+</p>
