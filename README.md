@@ -1,16 +1,139 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akash S Devadiga</h1>
 
-<!--
-**Akash-S-Devadiga/Akash-S-Devadiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Information Science & Engineering Student | Full Stack Web Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building modern web applications and continuously improving my programming skills.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Information Science & Engineering Student
+- 💻 Learning Full Stack Web Development (MERN)
+- ☕ Java Programmer
+- ⚙️ C++ Programmer
+- 🐍 Python Programmer
+- 🚀 Interested in Backend Development & System Design
+- 📚 Currently improving Data Structures & Algorithms
+- 🎯 Goal: Become a Software Engineer
+
+---
+
+## 🚀 Current Learning
+
+- 🌐 MERN Stack Development
+- ⚡ Modern JavaScript (ES2025)
+- 🛠 Backend Development
+- 📦 REST APIs
+- 🔐 Authentication
+- 📈 Data Structures & Algorithms
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+🔹 Employee Management System
+
+🔹 Doctor Appointment System
+
+🔹 Expense Tracker
+
+🔹 Recipe Finder
+
+🔹 Todo Application
+
+🔹 Weather App
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: YOUR_EMAIL
+
+💼 LinkedIn: YOUR_LINKEDIN_URL
+
+🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+## 💡 Motto
+
+> **"Consistency beats talent. Build. Learn. Improve. Repeat."**
+
+---
+
+⭐ Thanks for visiting my profile!
