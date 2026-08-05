@@ -72,6 +72,39 @@ Passionate about building modern web applications, solving problems, and continu
 | 🌦 Weather App | Weather API integration |
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-S-Devadiga&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-Devadiga&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akash-S-Devadiga&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-S-Devadiga&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akash-S-Devadiga&theme=tokyonight&margin-w=15&margin-h=15"/>
+</p>
+
 
 ## 🎯 2026 Goals
 
