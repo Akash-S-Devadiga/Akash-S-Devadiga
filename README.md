@@ -15,7 +15,6 @@ Passionate about building modern web applications, solving problems, and continu
 - 🎓 Information Science & Engineering Student
 - 🌱 Currently learning **MERN Stack Development**
 - ☕ Java Programmer
-- 🐍 Python Programmer
 - ⚙️ C++ Programmer
 - 📚 Improving Data Structures & Algorithms
 - 🎯 Aspiring Software Engineer
@@ -70,7 +69,6 @@ Passionate about building modern web applications, solving problems, and continu
 | 👨‍💼 Employee Management System | CRUD application with authentication |
 | 💰 Expense Tracker | Track income and expenses |
 | 🍔 Recipe Finder | MealDB API-based React app |
-| ✅ Todo Application | Local Storage based task manager |
 | 🌦 Weather App | Weather API integration |
 
 ---
@@ -78,7 +76,7 @@ Passionate about building modern web applications, solving problems, and continu
 ## 🎯 2026 Goals
 
 - ✅ Master MERN Stack
-- ✅ Build 10+ Full Stack Projects
+- ✅ Build 5+ Full Stack Projects
 - ✅ Learn System Design Fundamentals
 - ✅ Strengthen DSA
 - ✅ Contribute to Open Source
