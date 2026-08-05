@@ -71,8 +71,6 @@ Passionate about building modern web applications and continuously improving my 
 
 🔹 Recipe Finder
 
-🔹 Todo Application
-
 🔹 Weather App
 
 ---
@@ -121,11 +119,11 @@ Passionate about building modern web applications and continuously improving my 
 
 ## 📫 Connect With Me
 
-📧 Email: YOUR_EMAIL
+📧 Email: akashdevadiga33@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn:(https://www.linkedin.com/in/akash-s-devadiga-8b6114372/)
 
-🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+🐙 GitHub: https://github.com/Akash-S-Devadiga
 
 ---
 
