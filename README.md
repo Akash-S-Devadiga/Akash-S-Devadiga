@@ -78,12 +78,8 @@ Passionate about building modern web applications and continuously improving my 
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash-S-Devadiga
-  &show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-Devadiga&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash-S-Devadiga&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-Devadiga&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -91,9 +87,7 @@ Passionate about building modern web applications and continuously improving my 
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Akash-S-Devadiga&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Akash-S-Devadiga&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
