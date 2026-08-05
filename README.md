@@ -16,8 +16,7 @@ Passionate about building modern web applications and continuously improving my 
 - 💻 Learning Full Stack Web Development (MERN)
 - ☕ Java Programmer
 - ⚙️ C++ Programmer
-- 🐍 Python Programmer
-- 🚀 Interested in Backend Development & System Design
+- 🚀 Interested in Backend Development
 - 📚 Currently improving Data Structures & Algorithms
 - 🎯 Goal: Become a Software Engineer
 
