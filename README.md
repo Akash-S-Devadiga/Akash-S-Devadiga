@@ -76,7 +76,7 @@ Passionate about building modern web applications, solving problems, and continu
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitrloni27&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-S-Devadiga&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
