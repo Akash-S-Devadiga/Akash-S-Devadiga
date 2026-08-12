@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Akash S Devadiga</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Information Science & Engineering Student | MERN Stack Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18&height=220&section=header&text=Akash%20S%20Devadiga&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Information%20Science%20%26%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer&descAlignY=65&descSize=18" width="100%" />
+
+</div>
 
 <p align="center">
 Passionate about building modern web applications, solving problems, and continuously learning new technologies.
@@ -52,7 +52,7 @@ Passionate about building modern web applications, solving problems, and continu
 ## 📖 Currently Learning
 
 - 🌐 Full Stack Web Development
-- ⚡ Modern JavaScript (ES2025)
+- ⚡ Modern JavaScript
 - 🛠 Backend Development
 - 🔐 Authentication & JWT
 - 📦 REST APIs
@@ -65,27 +65,28 @@ Passionate about building modern web applications, solving problems, and continu
 
 | Project | Description |
 |---------|-------------|
-| 👨‍⚕️ Doctor Appointment System | Appointment booking and management |
-| 👨‍💼 Employee Management System | CRUD application with authentication |
-| 💰 Expense Tracker | Track income and expenses |
-| 🍔 Recipe Finder | MealDB API-based React app |
-| 🌦 Weather App | Weather API integration |
+| 👨‍⚕️ **Doctor Appointment System** | Appointment booking and management |
+| 👨‍💼 **Employee Management System** | CRUD application with authentication |
+| 💰 **Expense Tracker** | Track income and expenses |
+| 🍔 **Recipe Finder** | MealDB API-based React application |
+| 🌦️ **Weather App** | Weather API integration |
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Master MERN Stack
-- ✅ Build 5+ Full Stack Projects
-- ✅ Learn System Design Fundamentals
-- ✅ Strengthen DSA
-- ✅ Contribute to Open Source
+- ⬜ Master MERN Stack
+- ⬜ Build 5+ Full Stack Projects
+- ⬜ Learn System Design Fundamentals
+- ⬜ Strengthen DSA
+- ⬜ Contribute to Open Source
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** akashdevadiga33@gmail.com
+📧 **Email:**  
+akashdevadiga33@gmail.com
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/akash-s-devadiga-8b6114372/
