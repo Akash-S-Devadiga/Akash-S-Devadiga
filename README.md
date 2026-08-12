@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash S Devadiga</h1>
 
 <h3 align="center">
-💻 Information Science & Engineering Student | Full Stack Web Developer
+💻 Information Science & Engineering Student | MERN Stack Developer
 </h3>
 
 <p align="center">
