@@ -25,11 +25,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- ==================== INTRO ==================== -->
-
-<p align="center">
-  Passionate about building modern web applications, solving problems, and continuously learning new technologies.
-</p>
+<!-- ==================== TYPING ==================== -->
 
 ---
 
@@ -37,152 +33,114 @@
 
 - 🎓 Information Science & Engineering Student
 - 🌱 Currently learning **MERN Stack Development**
-- ☕ Java Programmer
-- ⚙️ C++ Programmer
-- 📚 Improving Data Structures & Algorithms
-- 🎯 Aspiring Software Engineer
+- ☕ Learning and practicing **Java**
+- ⚙️ Practicing **C / C++**
+- 📚 Improving **Data Structures & Algorithms**
+- 🔐 Learning **Backend Development & Authentication**
+- 🎯 Aspiring **Full Stack Developer**
 
 ---
 
-<!-- ==================== TECHNOLOGY STACK ==================== -->
+# 💻 Technology Stack
 
-## 💻 Technology Stack
+## 👨‍💻 Programming Languages
 
-### 👨‍💻 Programming Languages
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55"/><br/>
+<b>C</b>
+</td>
 
-<p align="center">
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"/><br/>
+<b>C++</b>
+</td>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-    alt="C"
-    width="60"
-  />
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/><br/>
+<b>Java</b>
+</td>
 
-  &nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/><br/>
+<b>JavaScript</b>
+</td>
+</tr>
+</table>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-    alt="C++"
-    width="60"
-  />
+## 🎨 Frontend Development
 
-  &nbsp;&nbsp;
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/><br/>
+<b>HTML5</b>
+</td>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    alt="Java"
-    width="60"
-  />
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/><br/>
+<b>CSS3</b>
+</td>
 
-  &nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="55"/><br/>
+<b>Tailwind</b>
+</td>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="JavaScript"
-    width="60"
-  />
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55"/><br/>
+<b>React</b>
+</td>
+</tr>
+</table>
 
-</p>
+## ⚙️ Backend & Database
 
-### 🎨 Frontend
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55"/><br/>
+<b>Node.js</b>
+</td>
 
-<p align="center">
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="55"/><br/>
+<b>Express.js</b>
+</td>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    alt="HTML5"
-    width="60"
-  />
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55"/><br/>
+<b>MongoDB</b>
+</td>
+</tr>
+</table>
 
-  &nbsp;&nbsp;
+## 🛠️ Tools
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    alt="CSS3"
-    width="60"
-  />
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/><br/>
+<b>Git</b>
+</td>
 
-  &nbsp;&nbsp;
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/><br/>
+<b>GitHub</b>
+</td>
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
-    alt="Tailwind CSS"
-    width="60"
-  />
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55"/><br/>
+<b>VS Code</b>
+</td>
 
-  &nbsp;&nbsp;
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-    alt="React"
-    width="60"
-  />
-
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-    alt="Node.js"
-    width="60"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-    alt="Express.js"
-    width="60"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-    alt="MongoDB"
-    width="60"
-  />
-
-</p>
-
-### 🛠️ Tools
-
-<p align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-    alt="Git"
-    width="60"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-    alt="GitHub"
-    width="60"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-    alt="VS Code"
-    width="60"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
-    alt="Postman"
-    width="60"
-  />
-
-</p>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="55"/><br/>
+<b>Postman</b>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -190,106 +148,104 @@
 
 ## 📖 Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript" />
-</p>
 
-- 🌐 Full Stack Web Development
-- 🛠️ Backend Development
-- 🔐 Authentication & JWT
-- 📦 REST APIs
-- 🗄️ MongoDB
-- 📈 Data Structures & Algorithms
+<p align="center">
+  <b>Full Stack Web Development</b>
+  &nbsp; • &nbsp;
+  <b>Backend Development</b>
+  &nbsp; • &nbsp;
+  <b>Authentication & JWT</b>
+  &nbsp; • &nbsp;
+  <b>REST APIs</b>
+  &nbsp; • &nbsp;
+  <b>Data Structures & Algorithms</b>
+</p>
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
 | Project | Description |
-|---------|-------------|
+|---|---|
 | 👨‍⚕️ **Doctor Appointment System** | Appointment booking and management |
 | 👨‍💼 **Employee Management System** | CRUD application with authentication |
 | 💰 **Expense Tracker** | Track income and expenses |
 | 🍔 **Recipe Finder** | MealDB API-based React application |
-| 🌦️ **Weather App** | Weather API integration |
+| 📝 **Todo Application** | React + LocalStorage based task manager |
 
 ---
 
-<!-- ==================== DIVIDER ==================== -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<!-- ==================== CONTRIBUTION STATISTICS ==================== -->
-
-## 📊 Contribution Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Akash-S-Devadiga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=Akash-S-Devadiga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+/>
 
-  <img
-    width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-S-Devadiga&theme=tokyonight&hide_border=true"
-  />
+<img
+  width="48%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-S-Devadiga&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
 ---
 
-<!-- ==================== ACTIVITY GRAPH ==================== -->
-
-## 📈 GitHub Activity
+# 📈 GitHub Activity
 
 <p align="center">
 
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-S-Devadiga&theme=tokyo-night&hide_border=true"
+  width="100%"
+/>
+
+</p>
+
+---
+
+# 🔤 Most Used Languages
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-Devadiga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
+
+</p>
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Akash-S-Devadiga/Akash-S-Devadiga/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Akash-S-Devadiga/Akash-S-Devadiga/output/github-snake.svg"
+  />
+
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-S-Devadiga&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Akash-S-Devadiga/Akash-S-Devadiga/output/github-snake.svg"
     width="100%"
   />
+</picture>
 
 </p>
 
 ---
 
-<!-- ==================== TOP LANGUAGES ==================== -->
-
-## 🔤 Most Used Languages
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-Devadiga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-
-</p>
-
----
-
-<!-- ==================== SNAKE ==================== -->
-
-## 🐍 Let the Snake Eat My Contributions
-
-<p align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/Akash-S-Devadiga/Akash-S-Devadiga/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
-  />
-
-</p>
-
----
-
-<!-- ==================== GOALS ==================== -->
-
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 - ⬜ Master MERN Stack
 - ⬜ Build 5+ Full Stack Projects
@@ -300,9 +256,7 @@
 
 ---
 
-<!-- ==================== QUOTE ==================== -->
-
-## 💭 Quote
+# 💭 Quote
 
 <p align="center">
 
@@ -312,20 +266,12 @@
 
 ---
 
-<!-- ==================== FOOTER ==================== -->
-
 <p align="center">
 
-  ⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
-  <br><br>
+<br/>
 
-  <b>Happy Coding 🚀</b>
+**Happy Coding 🚀**
 
-</p>
-
-<!-- ==================== BOTTOM DIVIDER ==================== -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
