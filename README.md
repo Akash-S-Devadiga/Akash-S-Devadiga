@@ -1,11 +1,9 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18&height=220&section=header&text=Akash%20S%20Devadiga&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Information%20Science%20%26%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer&descAlignY=65&descSize=18" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Akash%20S%20Devadiga&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Information%20Science%20%26%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer&descAlignY=65&descSize=18" width="100%" />
+</p>
 
 <p align="center">
-Passionate about building modern web applications, solving problems, and continuously learning new technologies.
+  Passionate about building modern web applications, solving problems, and continuously learning new technologies.
 </p>
 
 ---
