@@ -1,4 +1,4 @@
-![Akash S Devadiga](https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:24113D,100:4C1D4F&height=250&section=header&text=Akash%20S%20Devadiga&fontSize=52&fontColor=FFFFFF&fontAlignY=45)
+![Akash S Devadiga](https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4C1D5B,100:8B3A62&height=250&section=header&text=Akash%20S%20Devadiga&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Information%20Science%20%26amp%3B%20Engineering%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer&descSize=19&descAlignY=62)
 
 <p align="center">
   Passionate about building modern web applications, solving problems, and continuously learning new technologies.
