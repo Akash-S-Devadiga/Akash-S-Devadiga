@@ -1,31 +1,18 @@
-<!-- ==================== TOP DIVIDER ==================== -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
-<!-- ==================== HEADER ==================== -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4C1D5B,100:8B3A62&height=250&section=header&text=Akash%20S%20Devadiga&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Information%20Science%20%26amp%3B%20Engineering%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer&descSize=19&descAlignY=62"
   width="100%"
 />
 
-<!-- ==================== TYPING ANIMATION ==================== -->
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=38C2FF&size=32&height=100&width=820&lines=Hey!+I'm+Akash+%3C3;Information+Science+%26+Engineering+Student;Aspiring+Full+Stack+Developer;MERN+Stack+Developer;Java+Enthusiast;Building+%26+Learning+Every+Day"
   />
 </p>
-
-<!-- ==================== DIVIDER ==================== -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<!-- ==================== TYPING ==================== -->
 
 ---
 
