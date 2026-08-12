@@ -1,4 +1,4 @@
-![Akash S Devadiga](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Akash%20S%20Devadiga&fontSize=50&fontColor=ffffff&desc=Information%20Science%20%26%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer&descSize=18&descAlignY=65)
+![Akash S Devadiga](https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:24113D,100:4C1D4F&height=250&section=header&text=Akash%20S%20Devadiga&fontSize=52&fontColor=FFFFFF&fontAlignY=45)
 
 <p align="center">
   Passionate about building modern web applications, solving problems, and continuously learning new technologies.
@@ -50,10 +50,10 @@
 - 🌐 Full Stack Web Development
 - ⚡ Modern JavaScript
 - 🛠 Backend Development
-- 🔐 Authentication & JWT
+- 🔐 Authentication and JWT
 - 📦 REST APIs
 - 🗄 MongoDB
-- 📈 Data Structures & Algorithms
+- 📈 Data Structures and Algorithms
 
 ---
 
