@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Akash%20S%20Devadiga&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Information%20Science%20%26%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer&descAlignY=65&descSize=18" width="100%" />
-</p>
+![Akash S Devadiga](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Akash%20S%20Devadiga&fontSize=50&fontColor=ffffff&desc=Information%20Science%20%26%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer&descSize=18&descAlignY=65)
 
 <p align="center">
   Passionate about building modern web applications, solving problems, and continuously learning new technologies.
@@ -24,25 +22,25 @@
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 </p>
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
@@ -87,10 +85,10 @@
 akashdevadiga33@gmail.com
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/akash-s-devadiga-8b6114372/
+[LinkedIn Profile](https://www.linkedin.com/in/akash-s-devadiga-8b6114372/)
 
 🐙 **GitHub:**  
-https://github.com/Akash-S-Devadiga
+[GitHub Profile](https://github.com/Akash-S-Devadiga)
 
 ---
 
@@ -101,5 +99,5 @@ https://github.com/Akash-S-Devadiga
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Happy Coding 🚀
+  ⭐ Thanks for visiting my profile! Happy Coding 🚀
 </p>
