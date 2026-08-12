@@ -207,44 +207,6 @@
 
 ---
 
-# 🔤 Most Used Languages
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-Devadiga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
-
-</p>
-
----
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Akash-S-Devadiga/Akash-S-Devadiga/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Akash-S-Devadiga/Akash-S-Devadiga/output/github-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Akash-S-Devadiga/Akash-S-Devadiga/output/github-snake.svg"
-    width="100%"
-  />
-</picture>
-
-</p>
-
----
-
 # 🎯 2026 Goals
 
 - ⬜ Master MERN Stack
