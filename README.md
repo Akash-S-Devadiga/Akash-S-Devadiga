@@ -21,7 +21,7 @@
 - 🎓 Information Science & Engineering Student
 - 🌱 Currently learning **MERN Stack Development**
 - ☕ Learning and practicing **Java**
-- ⚙️ Practicing **C / C++**
+- ⚙️ Familiar with C / C++
 - 📚 Improving **Data Structures & Algorithms**
 - 🔐 Learning **Backend Development & Authentication**
 - 🎯 Aspiring **Full Stack Developer**
