@@ -137,13 +137,9 @@
 
 
 <p align="center">
-  <b>Full Stack Web Development</b>
+  <b>MERN Stack Development</b>
   &nbsp; • &nbsp;
-  <b>Backend Development</b>
-  &nbsp; • &nbsp;
-  <b>Authentication & JWT</b>
-  &nbsp; • &nbsp;
-  <b>REST APIs</b>
+  <b>Java</b>
   &nbsp; • &nbsp;
   <b>Data Structures & Algorithms</b>
 </p>
