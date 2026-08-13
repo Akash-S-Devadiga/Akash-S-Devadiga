@@ -155,7 +155,6 @@
 | 👨‍💼 **Employee Management System** | CRUD application with authentication |
 | 💰 **Expense Tracker** | Track income and expenses |
 | 🍔 **Recipe Finder** | MealDB API-based React application |
-| 📝 **Todo Application** | React + LocalStorage based task manager |
 
 ---
 
