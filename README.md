@@ -23,7 +23,7 @@
 - ☕ Learning and practicing **Java**
 - ⚙️ Familiar with C / C++
 - 📚 Improving **Data Structures & Algorithms**
-- 🔐 Learning **Backend Development & Authentication**
+- 🔐 Exploring Authentication & Secure Web Applications
 - 🎯 Aspiring **Full Stack Developer**
 
 ---
