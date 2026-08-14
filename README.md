@@ -189,17 +189,6 @@
 
 ---
 
-# 🎯 2026 Goals
-
-- ⬜ Master MERN Stack
-- ⬜ Build 5+ Full Stack Projects
-- ⬜ Strengthen DSA
-- ⬜ Learn System Design Fundamentals
-- ⬜ Contribute to Open Source
-- ⬜ Improve Professional Communication
-
----
-
 # 💭 Quote
 
 <p align="center">
