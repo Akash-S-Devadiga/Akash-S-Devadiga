@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4C1D5B,100:8B3A62&height=250&section=header&text=Akash%20S%20Devadiga&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Information%20Science%20%26amp%3B%20Engineering%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer&descSize=19&descAlignY=62"
   width="100%"
