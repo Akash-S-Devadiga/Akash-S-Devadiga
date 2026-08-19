@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd Year Information Science & Engineering Student
+- 🎓 Information Science & Engineering Student
 - 🌱 Currently learning **MERN Stack Development**
 - ☕ Learning and practicing **Java**
 - ⚙️ Familiar with C / C++
