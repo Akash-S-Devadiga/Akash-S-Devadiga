@@ -1,20 +1,18 @@
 
-<!-- ==================== BANNER ==================== -->
 <img
   src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2C0404,25:550C0C,50:852214,75:B24A1A,100:D67A28&text=Akash%20S%20Devadiga&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java&descColor=FCA5A5&descSize=19&descAlignY=60&animation=fadeIn"
 />
 
-<!-- ==================== TYPING EFFECT ==================== -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=F87171&size=32&height=100&width=820&lines=Hey!+I'm+Akash+%3C3;Aspiring+Full+Stack+Developer;MERN+Stack+Developer;Java+Enthusiast;Building+%26+Learning+Every+Day"
   />
 </p>
 
-<!-- ==================== ANIMATED DIVIDER ==================== -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ==================== ABOUT ME ==================== -->
+
 ## 🚀 About Me
 
 - 🎓 Information Science & Engineering Student
@@ -25,10 +23,10 @@
 - 🔐 Exploring Authentication & Secure Web Applications
 - 🎯 Aspiring **Full Stack Developer**
 
-<!-- ==================== ANIMATED DIVIDER ==================== -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ==================== TECHNOLOGY STACK (BADGES) ==================== -->
+
 ## 💻 Technology Stack
 
 ### 👨‍💻 Languages
@@ -62,10 +60,10 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<!-- ==================== ANIMATED DIVIDER ==================== -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ==================== CURRENTLY LEARNING ==================== -->
+
 ## 📖 Currently Learning
 
 <p align="center">
@@ -76,10 +74,10 @@
   <b>Data Structures & Algorithms</b>
 </p>
 
-<!-- ==================== ANIMATED DIVIDER ==================== -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
+
 ## 🌟 Featured Projects
 
 | Project | Tech Stack |
@@ -89,10 +87,10 @@
 | 💰 **Expense Tracker** | `React` `Context API` |
 | 🍔 **Recipe Finder** | `React` `MealDB API` |
 
-<!-- ==================== ANIMATED DIVIDER ==================== -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ==================== GITHUB STATS ==================== -->
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -103,10 +101,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-S-Devadiga&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- ==================== ANIMATED DIVIDER ==================== -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ==================== SOCIAL BADGES ==================== -->
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -116,14 +114,14 @@
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- ==================== QUOTE ==================== -->
+
 ## 💭 Quote
 
 <p align="center">
   <i>"Consistency beats talent when talent isn't consistent."</i>
 </p>
 
-<!-- ==================== FOOTER ==================== -->
+
 <p align="center">
   ⭐ <b>Thanks for visiting my profile!</b> ⭐<br/>
   <b>Happy Coding 🚀</b>
