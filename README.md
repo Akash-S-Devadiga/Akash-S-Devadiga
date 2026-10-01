@@ -1,17 +1,14 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1220,50:1E3A8A,100:06B6D4&text=Akash%20S%20Devadiga&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java&descColor=BAE6FD&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
-
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&center=true&vCenter=true&duration=2800&pause=800&color=38BDF8&size=24&width=760&height=60&lines=Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Java+%7C+DSA;Building+clean%2C+scalable+web+applications;Learning+and+shipping+every+day" alt="Typing animation" />
 </p>
-
 <!-- Social links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-s-devadiga-8b6114372/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/Akash_devadiga/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:akashdevadiga33@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Akash-S-Devadiga"></a>
+  <a href="mailto:akashdevadiga33@gmail.com"><img src="https://img.shields.io/badge/akashdevadiga33%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 
