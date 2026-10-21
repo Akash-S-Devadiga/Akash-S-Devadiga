@@ -79,20 +79,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-
-## 🌟 Featured Projects
-
-| Project | Tech Stack |
-|---------|------------|
-| 👨‍⚕️ **Doctor Appointment System** | `React` `Node` `MongoDB` |
-| 👨‍💼 **Employee Management System** | `React` `Express` `JWT` |
-| 💰 **Expense Tracker** | `React` `Context API` |
-| 🍔 **Recipe Finder** | `React` `MealDB API` |
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-
 ## 📊 GitHub Statistics
 
 <p align="center">
